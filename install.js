@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/nari-labs app",
+          "git clone https://github.com/nari-labs/dia app",
         ]
       }
     },
